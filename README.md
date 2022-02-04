@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jashsavani
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently everything
 - 💞️ I’m looking to collaborate on web devloping
 - 📫 How to reach me 7567600530
 
